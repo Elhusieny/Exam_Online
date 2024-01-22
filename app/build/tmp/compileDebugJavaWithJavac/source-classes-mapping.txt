@@ -1,0 +1,23 @@
+com/example/exam/FirstFragment.java
+ com.example.exam.FirstFragment
+ com.example.exam.FirstFragment$1
+com/example/exam/Star_activity.java
+ com.example.exam.Star_activity
+com/example/exam/databinding/ActivityMainBinding.java
+ com.example.exam.databinding.ActivityMainBinding
+com/example/exam/databinding/ActivityStarBinding.java
+ com.example.exam.databinding.ActivityStarBinding
+com/example/exam/BuildConfig.java
+ com.example.exam.BuildConfig
+com/example/exam/databinding/FragmentFirstBinding.java
+ com.example.exam.databinding.FragmentFirstBinding
+com/example/exam/MainActivity.java
+ com.example.exam.MainActivity
+ com.example.exam.MainActivity$1
+com/example/exam/SecondFragment.java
+ com.example.exam.SecondFragment
+ com.example.exam.SecondFragment$1
+com/example/exam/databinding/FragmentSecondBinding.java
+ com.example.exam.databinding.FragmentSecondBinding
+com/example/exam/databinding/ContentMainBinding.java
+ com.example.exam.databinding.ContentMainBinding
